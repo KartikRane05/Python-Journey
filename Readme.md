@@ -26,3 +26,6 @@
 - list
 - tuples
 - sets
+
+5.
+- dictionary and operations on it
