@@ -13,3 +13,12 @@
     - over dictionary
     - over string
 - concept of f string
+
+3.
+- defining the function
+- modules and using different things in exports
+- built in modules
+    - platform
+    - math
+    - random
+    
