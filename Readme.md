@@ -21,4 +21,8 @@
     - platform
     - math
     - random
-    
+
+4. 
+- list
+- tuples
+- sets
